@@ -1,9 +1,9 @@
 # Capture-Crew
 team members
 
--2410030138 - kyasa gowtham 
--2410030188 - anish
--2410030320 - v mukesh
+- 2410030138 - kyasa gowtham 
+- 2410030188 - anish
+- 2410030320 - v mukesh
 - 2410030496 - karthikeyan
 - 2410030461 - ganta gowtham
 

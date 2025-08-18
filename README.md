@@ -7,12 +7,11 @@ team members
 - 2410030496 - karthikeyan
 - 2410030461 - ganta gowtham
 
-  idea : a platform  where user can book an photographer or videographer through online
+  IDEA : a platform  where user can book an photographer or videographer through online
   
-  existing platforms : flash shoot
+  EXISTING PLATFORM : flash shoot
 
-  
-  drawbacks:
+  DRAWBACKS:
 1. Pricing & Packages — Make It More Flexible & Transparent
 Flashoot’s ₹999–₹1,999/hr rates + GST are fine for events, but they’re not optimal for very short jobs or first-time users.
 

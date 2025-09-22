@@ -6,6 +6,7 @@ team members
 - 2410030320 - v mukesh
 - 2410030496 - karthikeyan
 - 2410030461 - ganta gowtham
+- 2410030250 - G.kishore 
 
   IDEA : a platform  where user can book an photographer or videographer through online
   

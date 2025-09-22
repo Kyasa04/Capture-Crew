@@ -1,0 +1,91 @@
+* { margin: 0; padding: 0; box-sizing: border-box; }
+body {
+  font-family: 'Segoe UI', sans-serif;
+  background: #f7faff;
+  color: #222;
+  line-height: 1.6;
+}
+a { text-decoration: none; color: inherit; }
+
+/* Navbar */
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 15px 40px;
+  background: #004aad;
+  color: #fff;
+}
+.navbar nav a {
+  margin-left: 20px;
+  color: #fff;
+  font-weight: 500;
+}
+.logo { font-size: 20px; font-weight: bold; }
+
+/* Hero */
+.hero {
+  text-align: center;
+  padding: 80px 20px;
+  background: linear-gradient(135deg, #004aad, #06d6a0);
+  color: #fff;
+}
+.hero h1 { font-size: 60px; margin-bottom: 15px; }
+.hero-buttons { margin-top: 20px; }
+.btn {
+  display: inline-block;
+  padding: 12px 25px;
+  border-radius: 6px;
+  margin: 10px;
+  font-weight: bold;
+}
+.btn.primary { background: #ff9800; color: #fff; }
+.btn.secondary { background: #06d6a0; color: #fff; }
+
+/* Sections */
+section { padding: 50px 20px; text-align: center; }
+section h2 { font-size: 28px; margin-bottom: 20px; }
+.cards { display: flex; justify-content: center; gap: 20px; flex-wrap: wrap; }
+.card {
+  background: #fff;
+  padding: 20px;
+  border-radius: 8px;
+  width: 250px;
+  box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+}
+.offers { background: #e8f6ff; font-size: 18px; }
+.how-to ol { text-align: left; display: inline-block; margin-top: 10px; }
+
+/* Booking Page */
+.booking h1 { margin-bottom: 30px; }
+.packages {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+  gap: 20px;
+}
+.package {
+  background: #fff;
+  border: 2px solid #004aad;
+  border-radius: 10px;
+  padding: 20px;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.08);
+}
+.package h3 { color: #004aad; margin-bottom: 10px; }
+.package button {
+  margin-top: 10px;
+  padding: 10px 20px;
+  background: #004aad;
+  color: #fff;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+}
+
+/* Footer */
+footer {
+  text-align: center;
+  padding: 15px;
+  background: #004aad;
+  color: #fff;
+  margin-top: 40px;
+}
